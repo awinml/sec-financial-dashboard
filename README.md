@@ -1,1 +1,1 @@
-# sec-financial-dashboard
+# Financial Dashboard
